@@ -44,10 +44,6 @@ export default class LotsOfGreetings extends Component {
 
   render() {
 
-    // for (i=0, i < this.results.length, i++){
-    //   items.push(<NewsCard title=this.>)
-    // }
-
     return (
       <View style={{alignItems: 'center', margin: 10}}>
         {items}
