@@ -1,6 +1,6 @@
 # msu-frontend-test
 
-**News feed**
+**Base code for the news feed**
 
 Dependencies:
 
