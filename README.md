@@ -1,5 +1,7 @@
 # msu-frontend-test
 
+**News feed**
+
 Dependencies:
 
 ```bash
